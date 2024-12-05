@@ -1,0 +1,7 @@
+matplotlib==3.9.2
+numpy==1.26.3
+packaging==24.1
+pandas==2.2.3
+requests==2.32.3
+scikit-learn==1.5.2
+seaborn==0.13.2
