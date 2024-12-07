@@ -5,7 +5,7 @@
 - Project uses PhoBERT for feature extraction, and choosing among Logistic Regression, Decision Tree and Random Forest for classification
 
 **II. Dataset**
-- [Kaggle | Vietnamese sentiment analyst](https://www.kaggle.com/datasets/linhlpv/vietnamese-sentiment-analyst/data)
+- [Kaggle | Vietnamese sentiment analyst](https://www.kaggle.com/datasets/linhlpv/vietnamese-sentiment-analyst/data?select=data.csv)
 - Customer Shopee reviews are label positive, negative or neutral
 
 **III. Steps** 
